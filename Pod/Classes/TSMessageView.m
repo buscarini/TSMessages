@@ -7,9 +7,11 @@
 //
 
 #import "TSMessageView.h"
-#import "HexColors.h"
+
 #import "TSBlurView.h"
 #import "TSMessage.h"
+
+#import <HexColors/HexColors.h>
 
 #define TSMessageViewMinimumPadding 15.0
 
